@@ -1,1 +1,5 @@
-// Write your solution here!
+function cats()
+{
+    
+    return  '["Milo", "Otis", "Garfield"]' ;
+}
